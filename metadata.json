@@ -1,0 +1,6 @@
+{
+  "name": "Dialog PMIC Bench",
+  "description": "Plug-and-play mobile and desktop Dialog Semiconductor PMIC auto-detector, live power rail console, I2C register inspector, and automatic manual downloader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
